@@ -1,0 +1,14 @@
+
+playlist:
+https://www.youtube.com/playlist?list=PLKnIA16_RmvaTbihpo4MtzVm4XOQa0ER0
+
+video:  
+Structured Output in LangChain | Generative AI using LangChain | Video 5 | CampusX
+https://www.youtube.com/watch?v=y5EmRr1O1h4&list=PLKnIA16_RmvaTbihpo4MtzVm4XOQa0ER0&index=7
+
+
+
+
+beautify prompt
+beautify this so that i can read it and add details about each topic
+ 

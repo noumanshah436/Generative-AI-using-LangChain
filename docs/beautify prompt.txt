@@ -1,0 +1,28 @@
+
+I have the transcript of a YouTube tutorial video. Please create detailed notes covering all the topics mentioned in the video. Organize the content with clear headings and subheadings.
+For each topic:
+1. Summarize what was explained in the video.
+2. Add your own detailed explanations, definitions, and examples to deepen my understanding.
+3. Include key takeaways, best practices, and use cases if applicable.
+4. If there are any code snippets or technical steps, format them clearly and explain them line by line.
+5. Add a "Further Reading or Practice" section at the end with resources or practice ideas.
+
+I want this to serve as a comprehensive study guide. Here's the transcript:
+
+[Paste transcript here]
+
+---
+
+### Optional Variants Based on Use Case:
+
+* If the video is **code-based** (e.g., Python, web dev):
+  Add:
+
+  > Break down each code block step-by-step, explain what it does, and suggest variations or improvements if possible.
+
+* If the video is **conceptual or theory-heavy** (e.g., AI, databases):
+  Add:
+
+  > Include analogies and visual descriptions if helpful for understanding. Compare related concepts for clarity.
+
+Would you like me to generate a template using your current transcript to show what it would look like?

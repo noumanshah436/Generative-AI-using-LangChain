@@ -1,0 +1,7 @@
+$ cd "Generative AI using LangChain"
+
+$ python -m venv venv
+
+$ source venv/bin/activate
+
+(venv) python 4_langchain-prompts/chatbot.py       
