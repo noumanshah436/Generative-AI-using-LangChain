@@ -16,6 +16,9 @@ template2 = PromptTemplate(
 
 # fill the values of the placeholders
 prompt = template2.invoke({"name": "Nouman"})
+# Or we can use format method:
+# prompt = template2.format(name="Nouman")
+
 
 result = model.invoke(prompt)
 
