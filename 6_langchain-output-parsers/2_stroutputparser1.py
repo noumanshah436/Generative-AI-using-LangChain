@@ -21,6 +21,7 @@ template2 = PromptTemplate(
     input_variables=["text"],
 )
 
+# Output parser to convert model responses into simple strings
 parser = StrOutputParser()
 
 chain = template1 | model | parser | template2 | model | parser
