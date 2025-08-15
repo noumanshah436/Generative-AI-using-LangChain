@@ -1,0 +1,14 @@
+
+LCEL (LangChain Expression Language)
+
+Instead of manually chaining objects step-by-step, LCEL uses operators (|) and composable building blocks 
+(Runnable classes) to create a pipeline that can be invoked, streamed, batched, or even serialized without 
+changing the core logic.
+
+For example:
+
+Instead of creating chain using RunnableSequence
+  chain = RunnableSequence(r1, r2, r3)
+
+We can use LCEL syntax as:
+  chain = r1 | r2 | r3 
