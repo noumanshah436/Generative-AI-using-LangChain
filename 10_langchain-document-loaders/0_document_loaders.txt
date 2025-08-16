@@ -1,0 +1,13 @@
+
+https://python.langchain.com/docs/integrations/document_loaders/
+
+slide 78
+
+Document loaders:
+Document loaders are components in LangChain used to load data from various sources into a 
+standardized format (usually as Document objects), which can then be used for chunking, 
+embedding, retrieval, and generation.
+
+Document(
+    page_content= "", metadata= {"source": "filename.txt"}
+)
