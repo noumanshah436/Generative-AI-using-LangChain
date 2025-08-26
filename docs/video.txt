@@ -3,10 +3,8 @@ playlist:
 https://www.youtube.com/playlist?list=PLKnIA16_RmvaTbihpo4MtzVm4XOQa0ER0
 
 next video:  
-Document Loaders in LangChain | Generative AI using LangChain | Video 10 | CampusX
-https://www.youtube.com/watch?v=bL92ALSZ2Cg&list=PLKnIA16_RmvaTbihpo4MtzVm4XOQa0ER0&index=12
-
-30:00
+Vector Stores in LangChain | Generative AI using LangChain | Video 12 | CampusX
+https://www.youtube.com/watch?v=k13WK0bxQP0&list=PLKnIA16_RmvaTbihpo4MtzVm4XOQa0ER0&index=15
 
 beautify prompt
 beautify this so that i can read it and add details about each topic
