@@ -4,3 +4,9 @@ __pycache__
 venv
 
 .env
+
+my_chroma_db
+chroma_storage
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
