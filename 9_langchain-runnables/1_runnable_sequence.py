@@ -6,6 +6,9 @@ from langchain.schema.runnable import RunnableSequence
 
 load_dotenv()
 
+
+# Runnable is a building block for chaining together LLMs, prompts, retrievers, tools, and custom functions into pipelines.
+
 # 1. RunnableSequence
 
 # RunnableSequence is a sequential chain of runnables in LangChain that executes each step one after another, passing the output of one step as the input to the next.

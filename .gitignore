@@ -4,3 +4,6 @@ __pycache__
 venv
 
 .env
+
+my_chroma_db
+chroma_storage
